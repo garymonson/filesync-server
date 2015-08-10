@@ -1,0 +1,7 @@
+lib/versioninfo.py
+tmp/*
+twistd.pid
+.sourcecode/*
+
+# Keep empty directories:
+# Keep empty directories: >> .gitignore/.git*
